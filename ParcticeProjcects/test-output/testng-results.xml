@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="40910" started-at="2022-04-13T13:35:03 IST" finished-at="2022-04-13T13:35:44 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="40910" started-at="2022-04-13T13:35:03 IST" finished-at="2022-04-13T13:35:44 IST">
+      <class name="com.ABC.DashboardPage">
+        <test-method status="PASS" signature="checkmsg01()[pri:0, instance:com.ABC.DashboardPage@3712b94]" name="checkmsg01" duration-ms="15554" started-at="2022-04-13T13:35:03 IST" finished-at="2022-04-13T13:35:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkmsg01 -->
+        <test-method status="PASS" signature="checkmsg02()[pri:0, instance:com.ABC.DashboardPage@3712b94]" name="checkmsg02" duration-ms="10695" started-at="2022-04-13T13:35:18 IST" finished-at="2022-04-13T13:35:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkmsg02 -->
+      </class> <!-- com.ABC.DashboardPage -->
+      <class name="com.ABC.DemoProjects">
+        <test-method status="PASS" signature="Loginpage()[pri:0, instance:com.ABC.DemoProjects@4493d195]" name="Loginpage" duration-ms="8596" started-at="2022-04-13T13:35:29 IST" finished-at="2022-04-13T13:35:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Loginpage -->
+        <test-method status="PASS" signature="checkmsg()[pri:0, instance:com.ABC.DemoProjects@4493d195]" name="checkmsg" duration-ms="5859" started-at="2022-04-13T13:35:38 IST" finished-at="2022-04-13T13:35:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkmsg -->
+      </class> <!-- com.ABC.DemoProjects -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
